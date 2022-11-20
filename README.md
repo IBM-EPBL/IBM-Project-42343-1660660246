@@ -2,8 +2,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" align="center" alt="drawing" width="200" />
 </div>
 
-<h1 align="center">IBM-Project-42343-1660660246</h1>
-<h1 align="center">A Novel Method for Handwritten Digit Recognition System</h1>
+<h2 align="center">IBM-Project-42343-1660660246</h2>
+<h2 align="center">A Novel Method for Handwritten Digit Recognition System</h2>
 
 
 <p align="center">
